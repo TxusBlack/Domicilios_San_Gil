@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Domilicios</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="titulo1">Domicilios</string>
+    <string name="titulo2">San Gil</string>
+    <string name="terminos">Términos y condiciones</string>
+    <string name="sufijo">"+57"</string>
+    <string name="telefono">Ingresa tu número de celular</string>
+    <string name="logo">Logo principal</string>
+    <string name="splash">Logo SplashScreen</string>
+    <string name="title_activity_inicio">Inicio</string>
+    //Activation
+    <string name="activation">Este Layout es el de Activación \n Será trabajado mas adelante</string>
+    <string name="btsiguiente">Siguiente</string>
+    //Registro
+    <string name="usuario">Usuario</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="empresa">Empresa</string>
+    <string name="email">Correo</string>
+    <string name="nombres_apellidos">Nombre y Apellido</string>
+    <string name="title_activity_main_registro">Registro</string>
+    <string name="img_usuario">Imagen Usuario</string>
+    <string name="codigo">Código de la Empresa</string>
+    <string name="placa">Placa</string>
+    <string name="n_empresa">Nombre de la Empresa</string>
+    <string name="n_gerente">Nombre del Gerente</string>
+    <string name="nit">N.I.T</string>
+    <string name="direccion">Dirección</string>
+    <string name="descripcion">Descripcion</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="datos_enviados">Sus datos se han enviado\n correctamente y serán\n revisados.</string>
+    <string name="aviso_correo">Le enviaremos un correo\n cuando la activación\n sera exitosa.</string>
+    <string name="titulo_datos_enviados">Datos Enviados</string>
+    <string name="mapa">Aquí debería ir\n la API de Google Maps</string>
+    <string name="en_proceso">Continuará...</string>
+
+</resources>
